@@ -1,0 +1,19 @@
+{
+  "name": "geo-access-limiter",
+  "version": "1.0.0",
+  "description": "WordPress plugin that restricts access based on geographical location",
+  "main": "build.js",
+  "scripts": {
+    "lint:php": "echo \"Warning: PHP linting not set up. Install PHP_CodeSniffer for proper linting.\"",
+    "lint:js": "echo \"Warning: JS linting not set up. Install ESLint for proper linting.\"",
+    "build": "node build.js",
+    "zip": "echo \"Creating plugin zip file...\""
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "geolocation"
+  ],
+  "author": "Your Name",
+  "license": "GPL-2.0+"
+} 
